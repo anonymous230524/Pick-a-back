@@ -1,7 +1,7 @@
 # Pick-a-back
 This is an implementation for 'Pick-a-back: Selective Device-to-Device Knowledge Transfer in Federated Continual Learning' (_under review_).
 
-First of all, we would like to express our sinsere gratitude to the open source for their valuable contributions to this research:
+First of all, we would like to express our sincere gratitude to the open source for their valuable contributions to this research:
 * [ModelDiff: testing-based DNN similarity comparison for model reuse detection](https://github.com/MadryLab/modeldiff)
 * [Compacting, Picking and Growing for Unforgetting Continual Learning](https://github.com/ivclab/CPG)
 * [Piggyback: Adapting a Single Network to Multiple Tasks by Learning to Mask Weights](https://github.com/arunmallya/piggyback)
