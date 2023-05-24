@@ -6,6 +6,8 @@ First of all, we would like to express our sinsere gratitude to the open source 
 * [Compacting, Picking and Growing for Unforgetting Continual Learning](https://github.com/ivclab/CPG)
 * [Piggyback: Adapting a Single Network to Multiple Tasks by Learning to Mask Weights](https://github.com/arunmallya/piggyback)
 
+### Ready for data
+Download the [CIFAR-100 dataset](https://www.dropbox.com/scl/fo/6tcsld33cuptccyu3ortl/h?dl=0&rlkey=8tgs3nqfdqxk6y5nssnw0uf6z) in the directory 'data/' and unzip the file.
 
 ## STEP 1) Baseline accuracy
 Use the following command to train the scratch model for each task. This accuracy is used for the threshold of model expansion decision and pruning ratio selection.
